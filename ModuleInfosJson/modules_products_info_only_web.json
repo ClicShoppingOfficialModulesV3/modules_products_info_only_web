@@ -7,13 +7,13 @@
   "version":			1.0,
   "req_core_version":	3.0,
   "license":			"GPL 2 - MIT",
-  "tag":			    "template, products, info, shop",
+  "tag":			    "template, products, info, web",
   "install":            "sources/template/Default/",
   "module_directory":   "modules_products_info",
   "apps_name":          "",
   "type_module":      "template",
   "dependance":       "",
-  "description":        "This module allow to display an information if the product is only available in your website and ot n your shop",
+  "description":        "This module allow to display an information if the product is only available in your website and oor not your shop",
    "image":            "",
 
   "authors": [
