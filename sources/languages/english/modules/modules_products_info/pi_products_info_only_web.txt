@@ -1,0 +1,4 @@
+
+ module_products_info_only_web = Do you want to display the web exclusivity (no selling in shop) ?
+ module_products_info_only_web_description = Display the web exclusivity (no selling in shop) in the product_description
+ text_products_only_web = Web exlusivity (not selling in shop)
